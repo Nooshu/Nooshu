@@ -1,9 +1,10 @@
 <p align='center'>
-
-![](https://github.com/Nooshu/Nooshu/blob/master/welcome.gif)
-
-![](https://github.com/Nooshu/Nooshu/blob/master/under_construction1_0.gif)
-
-![](https://github.com/Nooshu/Nooshu/blob/master/best-viewed.jpg)
+<img src="https://github.com/Nooshu/Nooshu/blob/master/welcome.gif?raw=true">
+<br/>
+<br/>
+<img src="https://github.com/Nooshu/Nooshu/blob/master/under_construction1_0.gif?raw=true">
+<br/>
+<br/>
+<img src="https://github.com/Nooshu/Nooshu/blob/master/best-viewed.jpg?raw=true">
 
 </p>
