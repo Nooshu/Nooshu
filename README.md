@@ -1,5 +1,5 @@
-![Welcome to my web page!](welcome.gif)
+[<img src="https://github.com/Nooshu/Nooshu/blob/master/welcome.gif">](#)
 
-![Under construction](under_construction1_0.gif)
+[<img src="https://github.com/Nooshu/Nooshu/blob/master/under_construction1_0.gif">](#)
 
-![Best viewed in Internet Explorer](best-viewed.jpg)
+[<img src="https://github.com/Nooshu/Nooshu/blob/master/best-viewed.jpg">](#)
