@@ -9,4 +9,7 @@
 <br/>
 <br/>
 Best Viewed at 800x600 resolution with Internet Explorer 5.0 or higher.
+<br/>
+<br/>
+<img src="https://github.com/Nooshu/Nooshu/blob/master/counter8.gif?raw=true">
 </p>
