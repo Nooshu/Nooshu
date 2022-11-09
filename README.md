@@ -12,4 +12,7 @@ Best Viewed at 800x600 resolution with Internet Explorer 5.0 or higher.
 <br/>
 <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Nooshu/Nooshu/blob/master/counter8.gif?raw=true"/></a>
+<br/>
+<br/>
+<a rel="me" href="https://mastodon.world/@TheRealNooshu" style="display:none;">Mastodon</a>  
 </p>
